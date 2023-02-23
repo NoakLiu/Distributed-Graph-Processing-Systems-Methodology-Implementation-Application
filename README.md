@@ -3,4 +3,4 @@ This work is lead by Dong Liu in Peking University DAIR Lab, the project aims to
 
 The project team members are Dong Liu, Peter Zhao, Wentao Zhang, Yuxuan Liang
 
-<iframe src="https://github.com/NoakLiu/Distributed-Graph-Processing-Systems-Methodology-Implementation-Application/blob/main/work_overview.png" style="width:800px; height:500px;" frameborder="0"></iframe>
+![Workoverview](https://github.com/NoakLiu/Distributed-Graph-Processing-Systems-Methodology-Implementation-Application/blob/main/work_overview.pdf)
